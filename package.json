@@ -1,0 +1,23 @@
+{
+  "name": "ocrsearchable",
+  "version": "1.0.0",
+  "description": "This is trial1 ocr custom plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnirudhPI/Trial1-Custom-OCR.git"
+  },
+  "keywords": [
+    "OCR",
+    "searchable"
+  ],
+  "author": "Anirudh Inamdar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnirudhPI/Trial1-Custom-OCR/issues"
+  },
+  "homepage": "https://github.com/AnirudhPI/Trial1-Custom-OCR#readme"
+}
